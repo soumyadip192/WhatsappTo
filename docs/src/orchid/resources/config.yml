@@ -1,0 +1,35 @@
+# docs/src/orchid/resources/config.yml
+site:
+  about:
+    siteName: WhatsappTo
+    siteDescription: This is a short description of this project.
+Editorial:
+  primaryColor: '#6666FF'
+  legacySearch: false
+  social:
+    github: 'soumyadip192/WhatsappTo'
+  metaComponents:
+    - type: 'orchidSearch'
+  menu:
+    - type: 'separator'
+      title: 'API Docs'
+    - type: 'sourcedocPages'
+      moduleType: 'kotlindoc'
+      node: 'classes'
+      asSubmenu: true
+      submenuTitle: 'Classes'
+    - type: 'sourcedocPages'
+      moduleType: 'kotlindoc'
+      node: 'packages'
+      asSubmenu: true
+      submenuTitle: 'Packages'
+kotlindoc:
+  sourceDirs:
+    - './../../../../app/src/main/java'
+services:
+  publications:
+    stages:
+      ghPages:
+        branch: gh-pages
+        repo: 'WhatsappTo'
+        username: 'soumyadip192'
