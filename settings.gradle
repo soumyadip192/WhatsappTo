@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Whatsapp To"
 include ':app'
+include ':docs'

@@ -1,4 +1,4 @@
-name: Minimal Android CI Workflow
+name: Build Debug APK
 
 on:
   push:
@@ -8,18 +8,6 @@ on:
       - 'v*'
 
 jobs:
-  test:
-    name: Run Unit Tests
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v1
-      - name: Setup JDK
-        uses: actions/setup-java@v1
-        with:
-          java-version: 1.8
-      - name: Run Tests
-        run: bash ./gradlew test --stacktrace  
   apk:
     name: Generate APK
     needs: test
