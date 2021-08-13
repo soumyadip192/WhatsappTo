@@ -1,0 +1,57 @@
+{
+  "ownKey": "kotlindoc",
+  "childrenPages": {"kotlindoc": {
+    "ownKey": "kotlindoc",
+    "childrenPages": {"com": {
+      "ownKey": "com",
+      "childrenPages": {"soumyadip": {
+        "ownKey": "soumyadip",
+        "childrenPages": {"whatsappto": {
+          "ownKey": "whatsappto",
+          "childrenPages": {"mainactivity": {
+            "ownKey": "mainactivity",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc",
+                "baseUrl": "/",
+                "fileName": "com/soumyadip/whatsappto/mainactivity",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "/kotlindoc/com/soumyadip/whatsappto/mainactivity"
+              },
+              "description": "",
+              "title": "MainActivity",
+              "content": "<p><init><\/p>\n<p>onCreate<\/p>\n"
+            }]
+          }},
+          "ownPages": [{
+            "reference": {
+              "path": "kotlindoc",
+              "baseUrl": "/",
+              "fileName": "com/soumyadip/whatsappto",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/kotlindoc/com/soumyadip/whatsappto"
+            },
+            "description": "",
+            "title": "com.soumyadip.whatsappto",
+            "content": "<p>MainActivity<\/p>\n<p>clearText<\/p>\n"
+          }]
+        }}
+      }}
+    }},
+    "ownPages": [{
+      "reference": {
+        "path": "kotlindoc",
+        "baseUrl": "/",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "/kotlindoc"
+      },
+      "description": "",
+      "title": "",
+      "content": ""
+    }]
+  }}
+}

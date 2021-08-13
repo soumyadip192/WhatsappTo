@@ -1,0 +1,31 @@
+{
+  "ownKey": "home",
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "/"
+      },
+      "description": "",
+      "title": "Home",
+      "content": "<h1 id=\"whatsappto\"><a href=\"#whatsappto\" id=\"whatsappto\" class=\"anchor\"><\/a>WhatsappTo<\/h1>\n<p>Send Whatsapp to new contacts without the need to save them in phone<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "/404.html"
+      },
+      "description": "",
+      "title": "Not Found",
+      "content": ""
+    }
+  ]
+}

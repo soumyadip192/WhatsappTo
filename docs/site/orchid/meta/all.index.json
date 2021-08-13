@@ -1,0 +1,85 @@
+{
+  "ownKey": "index",
+  "childrenPages": {"kotlindoc": {
+    "ownKey": "kotlindoc",
+    "childrenPages": {"com": {
+      "ownKey": "com",
+      "childrenPages": {"soumyadip": {
+        "ownKey": "soumyadip",
+        "childrenPages": {"whatsappto": {
+          "ownKey": "whatsappto",
+          "childrenPages": {"mainactivity": {
+            "ownKey": "mainactivity",
+            "ownPages": [{
+              "reference": {
+                "path": "kotlindoc",
+                "baseUrl": "/",
+                "fileName": "com/soumyadip/whatsappto/mainactivity",
+                "extension": "html",
+                "usePrettyUrl": true,
+                "link": "/kotlindoc/com/soumyadip/whatsappto/mainactivity"
+              },
+              "description": "",
+              "title": "MainActivity",
+              "content": "<p><init><\/p>\n<p>onCreate<\/p>\n"
+            }]
+          }},
+          "ownPages": [{
+            "reference": {
+              "path": "kotlindoc",
+              "baseUrl": "/",
+              "fileName": "com/soumyadip/whatsappto",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/kotlindoc/com/soumyadip/whatsappto"
+            },
+            "description": "",
+            "title": "com.soumyadip.whatsappto",
+            "content": "<p>MainActivity<\/p>\n<p>clearText<\/p>\n"
+          }]
+        }}
+      }}
+    }},
+    "ownPages": [{
+      "reference": {
+        "path": "kotlindoc",
+        "baseUrl": "/",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "/kotlindoc"
+      },
+      "description": "",
+      "title": "",
+      "content": ""
+    }]
+  }},
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "/"
+      },
+      "description": "",
+      "title": "Home",
+      "content": "<h1 id=\"whatsappto\"><a href=\"#whatsappto\" id=\"whatsappto\" class=\"anchor\"><\/a>WhatsappTo<\/h1>\n<p>Send Whatsapp to new contacts without the need to save them in phone<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "/404.html"
+      },
+      "description": "",
+      "title": "Not Found",
+      "content": ""
+    }
+  ]
+}
