@@ -24,4 +24,4 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: apk
-          path: app/build/outputs/apk/debug/whatsapp-to-debug.apk
+          path: app/whatsapp-to-debug.apk
